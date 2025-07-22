@@ -1,0 +1,58 @@
+*(
+    margin: 0;
+    padding: 0 ;
+    box-sizng: border-box;
+
+    body{
+        background-color: antiquewhite;
+        color: #333
+        text-align: center;
+        line-height: 3;
+    
+    }
+)
+.section{
+    padding: 40px 20px;
+
+
+    .hero{
+        padding:50px 20px
+
+
+        .hero h1{
+            font-size: 80px
+            .grid {
+                display: grid;
+                gap: 10px
+
+
+
+
+                .grid div{
+                    background - color: rgb (175, 196,175);
+                    padding: 20px;
+                    border-radius: 100px;
+
+                    @media (max-width: 768px){}
+                    . hero h1{font: size 40px};
+                    @media (max-width: 768px){}
+                    body{background-color: aliceblue;}
+
+
+                .hero-text{
+                    display:flex;
+                    flex-direction: column;
+
+
+                .hero img{
+                    border-radius: 50%;
+                    
+                }
+                    
+                }
+            }
+        }
+            
+        }
+    }
+}
